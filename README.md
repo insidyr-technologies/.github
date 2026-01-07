@@ -1,6 +1,6 @@
 # Insidyr Technologies
 
-Welcome to Insidyr Technologies! 👋
+Welcome to Insidyr Technologies!
 
 We're a fintech R&D company building innovative solutions for social investing. Our flagship project brings stock and crypto investing to Discord and other platforms, making financial markets more accessible and social.
 
@@ -12,6 +12,4 @@ We're a fintech R&D company building innovative solutions for social investing. 
 
 ## Get Involved
 
-Interested in supporting our mission or want to learn more? We'd love to hear from you!
-
-📧 Email us at: **contact@insidyr.app**
+Interested in supporting our mission or want to learn more? We'd love to hear from you! Email us at: **contact@insidyr.app**
