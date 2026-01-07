@@ -2,14 +2,17 @@
 
 Welcome to Insidyr Technologies!
 
-We're a fintech R&D company building innovative solutions for social investing. Our flagship project brings stock and crypto investing to Discord and other platforms, making financial markets more accessible and social.
+We're a lightweight fintech R&D team exploring social, community-driven tools for modern traders and investors. Our current work focuses on Discord-first experiences that make markets easier to follow, discuss, and learn about.
 
-## What We Do
+## Current Project
 
-- **Social Investing Platform**: Connect with other investors and share insights on Discord
-- **Stock & Crypto Trading**: Real-time market data and trading capabilities
-- **Research & Development**: Exploring the future of fintech and social finance
+We are actively developing a Discord-based trading bot that integrates with modern brokerage and data APIs. Planned capabilities include:
+- account-linked activity views
+- trade and price alerts
+- leaderboards and community stats
+- watchlists and basic portfolio summaries
+- other educational, social investing features
 
-## Get Involved
+## Contact
 
-Interested in supporting our mission or want to learn more? We'd love to hear from you! Email us at: **contact@insidyr.app**
+We're a small team and open to collaboration, feedback, and ideas. Email: contact@insidyr.app
